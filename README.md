@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Prosra
+# Prosra
 
 ### *AI Copilot for the Future of Work*
 
